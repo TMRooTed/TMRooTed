@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**TMRooTed/TMRooTed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "magisk": {
+    "version": "Telegram : @MRootSu",
+    "versionCode": "23000",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
+    "note": "https://raw.githubusercontent.com/mahmoud32xn/Magisk/51b45ae7b670993a419e4a3ff18609108761431f/docs/releases/23000.md"
+  },
+  "stub": {
+    "versionCode": "21",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
+  }
+}
